@@ -1,0 +1,8 @@
+C:\Users\user\Documents\IF-PEMROG\LatihanOverloadMethod\LatihanOverloadMethod\bin\Debug\LatihanOverloadMethod.exe.config
+C:\Users\user\Documents\IF-PEMROG\LatihanOverloadMethod\LatihanOverloadMethod\bin\Debug\LatihanOverloadMethod.exe
+C:\Users\user\Documents\IF-PEMROG\LatihanOverloadMethod\LatihanOverloadMethod\bin\Debug\LatihanOverloadMethod.pdb
+C:\Users\user\Documents\IF-PEMROG\LatihanOverloadMethod\LatihanOverloadMethod\obj\Debug\LatihanOverloadMethod.csproj.AssemblyReference.cache
+C:\Users\user\Documents\IF-PEMROG\LatihanOverloadMethod\LatihanOverloadMethod\obj\Debug\LatihanOverloadMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\IF-PEMROG\LatihanOverloadMethod\LatihanOverloadMethod\obj\Debug\LatihanOverloadMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\IF-PEMROG\LatihanOverloadMethod\LatihanOverloadMethod\obj\Debug\LatihanOverloadMethod.exe
+C:\Users\user\Documents\IF-PEMROG\LatihanOverloadMethod\LatihanOverloadMethod\obj\Debug\LatihanOverloadMethod.pdb
